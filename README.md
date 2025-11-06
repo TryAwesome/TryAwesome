@@ -1,4 +1,4 @@
-# Hi, I'm haocean
+# <h1 align="center">👋Hi, I'm haocean</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Full-stack+Developer;Automation+and+Workflow+Engineer;Cloud+and+AI+Explorer;Always+learning+new+things!&center=true&width=760&height=60&color=FFFFFF&font=Press+Start+2P&size=16&pause=900" />
